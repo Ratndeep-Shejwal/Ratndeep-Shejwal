@@ -2,7 +2,9 @@
 
 👀 I’m interested in Artificial Intelligence and Machine Learning
 
-🌱 I’m currently learning Python, DSA
+🌱 I’m currently learning Python
+
+🌱 Mastering Frontend 
 
 📫 How to reach me ratndeepshejwal@gmail.com
 
