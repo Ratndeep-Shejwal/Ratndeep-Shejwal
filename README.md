@@ -1,10 +1,10 @@
-💫 About Me:
-🔭 I’m a dedicated Java Developer with a passion for backend architecture and system design.
-🌱 Currently expanding my knowledge in Machine Learning and its integration with Java.
-💬 Feel free to ask me about Java, Spring Boot, and building scalable solutions.
-💻 I also enjoy exploring full-stack development and AI projects.
-🌍 Reach me: ratndeepshejwal@gmail.com
-😄 Pronouns: Mr.
+💫 About Me:<br>
+●  🔭 I’m a dedicated Java Developer with a passion for backend architecture and system design.<br>
+●  🌱 Currently expanding my knowledge in Machine Learning and its integration with Java.<br>
+●  💬 Feel free to ask me about Java, Spring Boot, and building scalable solutions.<br>
+●  💻 I also enjoy exploring full-stack development and AI projects.<br>
+●  🌍 Reach me: ratndeepshejwal@gmail.com<br>
+●  😄 Pronouns: Mr.
 
 
 ## 🌐 Socials:
